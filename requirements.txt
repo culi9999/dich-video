@@ -1,0 +1,15 @@
+# Dịch Video — Python dependencies
+# Python 3.10+ recommended
+
+streamlit>=1.32.0
+faster-whisper>=1.0.3
+deep-translator>=1.11.4
+edge-tts>=6.1.12
+vieneu>=3.8.1
+soundfile>=0.12.1
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+srt>=3.5.3
+langdetect>=1.0.9
+tqdm>=4.66.0
+python-dotenv>=1.0.1
