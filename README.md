@@ -39,7 +39,7 @@ python cli.py "./input.mp4" --to vi --mode dub --voice "Đức Trí" --max-overl
 ## Chế độ xuất
 
 | Mode | Kết quả |
-|------|---------|
+|------|--------|
 | `srt` | 3 file SRT + JSON transcript |
 | `soft` | Video kèm phụ đề mềm |
 | `hard` | Phụ đề cháy vào khung hình |
